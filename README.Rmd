@@ -15,7 +15,7 @@ Title <- "Title of your paper goes here"
 ```
 
 # hcii2020reproducible
-
+[![Travis-CI Build Status](https://travis-ci.org/Sumidu/hcii2020reproducible.svg?branch=master)](https://travis-ci.org/Sumidu/hcii2020reproducible)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh///master?urlpath=rstudio)
 
 This repository contains the data and code for our paper:
